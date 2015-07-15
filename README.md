@@ -8,3 +8,5 @@ modificando
 
 modificando el fichero
 v1.1
+
+v2.0
