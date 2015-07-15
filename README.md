@@ -7,4 +7,4 @@ el motivo es hacer muchas pruebas de git
 modificando
 
 modificando el fichero
-v1.1
+v1.2
